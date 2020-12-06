@@ -1,0 +1,1 @@
+This project includes the second task in Programming Systems A. The purpose of the task is to write a plan that manages 50 bank accounts.
